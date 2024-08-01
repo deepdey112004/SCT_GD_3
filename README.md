@@ -11,7 +11,7 @@ The third task assigned to me was to design a business card for a business of my
 ## Project Details
 
 ### Company Concept: Polaris
-**Polaris** is an IT company that focuses on AI-driven software solutions and robotics to simplify our lives. The company's tagline is "Upgrading the Universe through Unique Innovations."
+**sultion** is an IT company that focuses on AI-driven software solutions and robotics to simplify our lives. The company's tagline is "Upgrading the Universe through Unique Innovations."
 
 ### Objective
 The objective was to design a professional and visually appealing business card that effectively represents Polaris and its marketing manager.
