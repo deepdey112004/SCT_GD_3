@@ -1,4 +1,6 @@
 # SCT_GD_3
+![Business Card](https://github.com/user-attachments/assets/0e53995a-4b5f-4126-93dc-e7f1f0a71885)
+
 #  Business Card
 ## Overview
 I am excited to share the completion of my third task as a Graphic Designer Intern at SkillCraft Technology. This README provides an overview of the task, my approach, and the insights gained throughout the process.
